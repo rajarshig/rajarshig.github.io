@@ -3,6 +3,8 @@ Nginx is one of the most widely used web server, regarded highly for its perform
 
 For example. let’s say we have setup a web API with Nginx. Now we need to monitor various metrics like number of API access, user-agent, response status etc. Below are the steps -
 
+---
+
 1. Define access & error log file: As per default nginx configuration at /etc/nginx/nginx.conf, below log files are defined
 ```
 access_log /var/log/nginx/access.log;
