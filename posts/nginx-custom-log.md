@@ -20,20 +20,19 @@ We can define different log files as well, in virtual blocks configuration, at /
    ```
  
  3. Update log file with log format: Now we have to update the access_log / error_log to work as per provided log format as below
- 
- ```
- access_log /var/log/nginx/access.log myapilogformat;
- ```
+
+    ```
+    access_log /var/log/nginx/access.log myapilogformat;
+    ```
  
  4. Save & test if no error present
- 
- ```
- nginx -t   #tests all nginx configurations
- ```
- If error shown, check for syntax/ spelling errors etc. If no error found, restart nginx
- ```
- sudo service nginx restart
- ```
+    ```
+    nginx -t   #tests all nginx configurations
+    ```
+    If error shown, check for syntax/ spelling errors etc. If no error found, restart nginx
+    ```
+    sudo service nginx restart
+    ```
  
  Reference:
  - Nginx format options [here](http://nginx.org/en/docs/http/ngx_http_log_module.html)
