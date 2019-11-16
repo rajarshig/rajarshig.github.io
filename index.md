@@ -3,3 +3,4 @@
 ## Recent posts
 
 - [How to create custom Nginx log file](posts/nginx-custom-log.md)
+- [Python logging — a basic implementation](posts/python-logging-basic-implementation.md)
