@@ -1,5 +1,4 @@
 # How to create custom Nginx log file
-Published at: 2/10/2018
 
 ---
 
