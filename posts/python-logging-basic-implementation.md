@@ -33,7 +33,7 @@ Python logging package have following loglevel — `DEBUG, INFO, WARNING, ERROR,
     ```
 2. In a exception case, we catch the exception and generate a ERROR level log
     ```
-    logging.ERROR('Exception occurred, unable to process for {} value'.format(value))
+    logging.error('Exception occurred, unable to process for {} value'.format(value))
     ```
 3. Now, in development stage we would want to view both the logs. However in production, we will only be interested in the `ERROR` log. So, after deployment, we simply change the loglevel by running `export loglevel=ERROR` which will limit the log messages to `ERROR` type only. Again, if we want to debug the production application and want to view the `DEBUG` level as well, we can simple change the loglevel, without making any code or application state updates.
 
