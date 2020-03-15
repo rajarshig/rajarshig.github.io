@@ -1,7 +1,7 @@
 # Posts about learnings, development tips & much more!
 
 ## Pet Projects
-- [https://github.com/rajarshig/MyReference](My Reference)
+- [My Reference](https://github.com/rajarshig/MyReference)
 
 ## Tags
 - [AWS](tags/aws.md)
