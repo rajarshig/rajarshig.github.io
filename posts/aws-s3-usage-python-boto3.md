@@ -1,4 +1,4 @@
-# AWS S3 usage with Python using Boto3 library
+# AWS S3 usage with Python & Boto3 library
 
 ---
 
