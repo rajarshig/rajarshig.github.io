@@ -12,8 +12,7 @@
 - [AWS S3 usage with Python using Boto3 library](posts/aws-s3-usage-python-boto3.md)
 - [How to create custom Nginx log file](posts/nginx-custom-log.md)
 - [Python logging — a basic implementation](posts/python-logging-basic-implementation.md)
-
-## 
+ 
 
 ## Quick links
 - [Online Markdown Editor](https://dillinger.io/)
