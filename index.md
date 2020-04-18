@@ -4,7 +4,7 @@
 - [My Reference](https://github.com/rajarshig/MyReference)
 
 ## Tags
-- [DevOps] (tags/devops.md)
+- [DevOps](tags/devops.md)
 - [AWS](tags/aws.md)
 - [Python](tags/python.md)
 
