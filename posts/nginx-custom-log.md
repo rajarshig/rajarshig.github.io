@@ -1,5 +1,5 @@
 # How to create custom Nginx log file
-
+Published at: 12/10/2019
 ---
 
 Nginx is one of the most widely used web server, regarded highly for its <u>performance & simplicity</u>. Log files are a common requirement for web server configurations. Let’s see how can we create nginx log files with customised values.

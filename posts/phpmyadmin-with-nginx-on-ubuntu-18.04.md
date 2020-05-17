@@ -1,5 +1,5 @@
 # Install PhpMyAdmin with Nginx on Ubuntu 18.04
-
+Published at: 20/04/2020
 ---
 
 PhpMyAdmin is the most popular web interface for MySql whereas nginx is becoming a popular choice for web server. Here we will be going thourgh the process of setup a PhpMyAdmin instance with Nginx, in an Ubuntu 18.04 server. The steps may vary slightly for other ubuntu versions.
