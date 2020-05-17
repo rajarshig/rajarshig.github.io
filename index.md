@@ -20,3 +20,4 @@
 - [Online Markdown Editor](https://dillinger.io/)
 - [Online Diagram-VisualParadigm](https://online.visual-paradigm.com/)
 - [Format & share json](https://jsonblob.com/)
+- [PyVideo-collection of python conferences videos](https://pyvideo.org/)
