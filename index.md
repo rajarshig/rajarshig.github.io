@@ -9,7 +9,7 @@
 - [Python](tags/python.md)
 
 ## Recent posts
-
+- [Setup Cron job in Ubuntu 18.04](posts/cron-ubuntu-18-04.md)
 - [Install PhpMyAdmin with Nginx on Ubuntu 18.04](posts/phpmyadmin-with-nginx-on-ubuntu-18.04.md)
 - [AWS S3 usage with Python using Boto3 library](posts/aws-s3-usage-python-boto3.md)
 - [How to create custom Nginx log file](posts/nginx-custom-log.md)
