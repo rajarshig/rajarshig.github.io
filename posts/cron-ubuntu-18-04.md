@@ -27,7 +27,7 @@ crontab -e
 - To ignore a field, use `*`. Then only the non `*` fields will be considered, as here I have ignored the dom, mon, dow fields, so the Cron will run daily
 - As the minimum time field is minute, we can not use seconds for Cron
 - After entering the entry, use `Ctrl+O` & `Ctrl+X` to save 
-- Ensure there are no `\n` character in the entry line, else parsing error will be thown while saving
+- Ensure there are no `\n` character in the entry line, else parsing error will be thrown while saving
 
 - The Cron `dameon` will check the entries in its own, so not need to restart it after entry
 - The generated crontab file can be seen at `/var/spool/cron/crontabs/username`
