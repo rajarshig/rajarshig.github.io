@@ -1,5 +1,5 @@
 # Python logging — a basic implementation
-Published at: 06/11/2019
+### Published at: 06/11/2019
 ---
 ## Introduction
 
