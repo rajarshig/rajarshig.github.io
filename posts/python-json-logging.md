@@ -55,7 +55,8 @@ logger.error(e)
 ```
 
 ## Ideas for advanced use
-- In addition to general logs, we can also use log messages with custom key-values for specific insights about the application. For example, we can add some extra keys to keep track of inter-api response time & use it afterward to understand application performace.
+- In addition to general logs, we can also use log messages with custom key-values for specific insights about the application. For example, we can add some extra keys to keep track of inter-api response time & use it afterward to understand application performace
+
 ```
 logger.info("Fetched from apiA/search",
                        extra={'props':
