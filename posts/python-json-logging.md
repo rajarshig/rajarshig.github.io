@@ -1,7 +1,7 @@
 # Python logging in JSON format
 ### Published at: 2/8/2020
 ---
-Logging in python can be achieved using inbuilt `logging` module. However, analysing the text based logs like below, can become complicated for log aggregation tools like ELK, especially in a microservice architecture
+Logging in python can be achieved using inbuilt `logging` module. However, analysing the text based logs like below, can be complicated for log aggregation tools like ELK, especially in a microservice architecture
 ```
 2020-07-20 12:05:30,766 - __main__ - DEBUG - This is a debug message
 ``` 
