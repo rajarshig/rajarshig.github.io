@@ -45,8 +45,10 @@ def get_logger():
 logger = get_logger()
 ```
 - Sample log generation code & output
+
 ```
 logger.error(e)
+```
 
 {"written_at": "2020-08-01T19:39:45.359Z", "written_ts": 1596310785359963000, "msg": "Internal Server Error: /api/endpoint1/user_name", "type": "log", "logger": "django.request", "thread": "Thread-3", "level": "error", "module": "log", "line_no": 228, "exc_info": "Traceback (most recent call last):\n...", "filename": "log.py"}
 
