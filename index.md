@@ -16,6 +16,9 @@
 - [How to create custom Nginx log file](posts/nginx-custom-log.md)
 - [Python logging — a basic implementation](posts/python-logging-basic-implementation.md)
  
+ 
+## Journal for english writing
+- [How Covid surge in India affects the global vaccine supply](posts/journal-how-covid-surge-in-india-affects-global-supply.md) - 16/05/2021
 
 ## Quick links
 - [Online Markdown Editor](https://dillinger.io/)
